@@ -4,13 +4,13 @@
 
 ---
 
-## 📊 Live Tableau Dashboard
+# Live Tableau Dashboard
 
 🔗 [View Interactive Dashboard](https://public.tableau.com/app/profile/nintu.biju/viz/RogersSubscriberAnalyticsDashboard2026/Dashboard1)
 
 ---
 
-## 🗂️ Project Structure
+# Project Structure
 
 ```
 rogers-subscriber-analytics/
@@ -33,7 +33,7 @@ rogers-subscriber-analytics/
 
 ---
 
-## 🔍 Project Overview
+## Project Overview
 
 ### Dataset
 - **300,000 simulated Rogers Canada subscriber records** (2020–2025)
@@ -42,7 +42,7 @@ rogers-subscriber-analytics/
 
 ---
 
-## 📈 Analysis Phases
+## Analysis Phases
 
 ### Phase 1 — Exploratory Data Analysis (EDA)
 Column-by-column analysis of all 16 features. Key findings:
@@ -79,7 +79,7 @@ Column-by-column analysis of all 16 features. Key findings:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -91,7 +91,7 @@ Column-by-column analysis of all 16 features. Key findings:
 
 ---
 
-## 📊 Dashboard Views
+## Dashboard Views
 
 The Tableau dashboard includes 5 views:
 
@@ -103,7 +103,7 @@ The Tableau dashboard includes 5 views:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Open `notebooks/Rogers_Data_Analysis_2026_final.ipynb` in Google Colab
 2. Run all cells sequentially (runtime ~3–5 minutes for 300K rows)
