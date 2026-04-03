@@ -1,0 +1,4 @@
+Sales_Channel,Total_Customers,Churned_Customers,Avg_ARPU,Billing_Grievance_Rate,Churn_Rate_Pct
+Online/App,104975,4661,115.07,27.0,4.44
+Retail Store,150370,6710,115.04,26.79,4.46
+Third-Party Dealer,44655,1932,115.09,26.93,4.33

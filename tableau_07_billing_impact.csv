@@ -1,0 +1,7 @@
+Billing_Grievances,Loyalty_Tier,Total_Customers,Churned_Customers,Avg_ARPU,Churn_Rate_Pct,Billing_Label
+0,Gold,65800,2039,114.87343145896656,3.1,No Grievance
+0,Platinum,21951,372,115.0513393467268,1.69,No Grievance
+0,Silver,131590,3844,115.12513276084809,2.92,No Grievance
+1,Gold,24043,2131,115.29918437798943,8.86,Has Grievance
+1,Platinum,8017,608,114.92162155419733,7.58,Has Grievance
+1,Silver,48599,4309,115.0361764645363,8.87,Has Grievance

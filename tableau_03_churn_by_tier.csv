@@ -1,0 +1,4 @@
+Loyalty_Tier,Total_Customers,Churned_Customers,Avg_ARPU,Total_Annual_Revenue,Churn_Rate_Pct,Revenue_At_Risk,Tier_Order
+Silver,180189,8153,115.1,248879512.32,4.52,11260924.0,1
+Gold,89843,4170,114.99,123969720.96,4.64,5754100.0,2
+Platinum,29968,980,115.02,41361823.08,3.27,1352635.0,3

@@ -1,0 +1,6 @@
+Bundle_Type,Total_Customers,Churned_Customers,Avg_ARPU,Total_Annual_Revenue,Churn_Rate_Pct,Revenue_At_Risk
+App TV,30018,1414,84.35,30384833.16,4.71,1431251.0
+Essentials TV,59731,2716,99.23,71126174.28,4.55,3234104.0
+Internet Only,60400,2861,89.26,64693680.84,4.74,3064474.0
+Popular TV,104868,4905,128.97,162294383.16,4.68,7591174.0
+Ultimate TV with StreamSaver,44983,1407,158.79,85711984.92,3.13,2681010.0
